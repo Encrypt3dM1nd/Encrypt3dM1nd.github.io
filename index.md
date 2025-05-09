@@ -7,7 +7,8 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 ---
 
 [Projects](./another-page.html).
-Summary
+
+# Header 1 Summary
 
 Aspiring cybersecurity professional with hands-on experience in system administration, threat detection, and risk management. Proficient in incident response, SIEM tools, and endpoint security. Completed certifications including Google Cybersecurity Certificate, TryHackMe, and Splunk. Passionate about protecting organisations from cyber threats and eager to contribute to a dynamic cybersecurity team. Currently pursuing SAL-1
 certification to deepen SOC expertise.
